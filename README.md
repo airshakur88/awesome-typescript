@@ -494,6 +494,7 @@ A curated list of awesome TypeScript frameworks, libraries and software.
 * [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 * [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
 * [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
+* [@shtora/d1](https://github.com/orgShtora-1/d1) - Zero-dependency TypeScript client for Cloudflare D1 with prepared queries, typed batch operations, and read-replication sessions.
 
 ### Serialization and Formats
 
